@@ -1,6 +1,6 @@
 <div align="center">
-  <img width="200" height="200" src="https://webpack.js.org/assets/icon-square-big.svg"><img width="200" height="200" src="https://vuejs.org/images/logo.png">
-  <h1>Webpack + Vue.js DEV  Template</h1>
+  <img width="200" height="200" src="./src/assets/logo.png">
+  <h1>Mardi Gras</h1>
   <p>
     Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
   </p>
